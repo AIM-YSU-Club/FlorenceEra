@@ -12,7 +12,9 @@ geopandas
 shapely
 geoalchemy2
 # AI
+faiss-cpu
 ollama
+langchain-community
 langchain-huggingface
 sentence-transformers
 transformers
