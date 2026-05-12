@@ -94,7 +94,7 @@ function App() {
                 >
                   <use href="/icons.svg#x-icon"></use>
                 </svg>
-                wlfkf shsh
+                wlfkf sh
               </a>
             </li>
             <li>
